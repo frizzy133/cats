@@ -8,4 +8,4 @@ Awesome Cat
 Name: Murzik1
 Age: 3Y11M
 Length: 48 sm
-
+Nationalite: Russian
